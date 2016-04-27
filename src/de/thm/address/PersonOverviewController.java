@@ -61,3 +61,5 @@ public class PersonOverviewController {
         personTable.setItems(mainApp.getPersonData());
     }
 }
+
+//DAS IST NEU
