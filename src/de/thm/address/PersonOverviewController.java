@@ -34,7 +34,7 @@ public class PersonOverviewController {
     @FXML
     private Label postalCodeLabel;
     @FXML
-    private Label cityNameLabel;
+    //private Label cityNameLabel;
 
     @FXML
     private void initialize(){
