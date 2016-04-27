@@ -53,8 +53,6 @@ public class PersonOverviewController {
         });
     }
 
-  //EINFACH NEUER KOMMENTAR!
-
     public void setMainApp(MainApp mainApp){
         this.mainApp = mainApp;
 
@@ -63,3 +61,5 @@ public class PersonOverviewController {
         personTable.setItems(mainApp.getPersonData());
     }
 }
+
+//DAS IST NEU
